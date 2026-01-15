@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Abdessamad 👋
 
-<!--
-**abdessamad-eddaoudi/abdessamad-eddaoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI automation systems focused on real-world use cases.
 
-Here are some ideas to get you started:
+### What I work on
+- LLM agents for task automation
+- Retrieval-Augmented Generation (RAG)
+- Data pipelines: scraping → cleaning → summarization → reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current focus
+- AI workflows for businesses
+- Turning complex processes into simple, automated systems
+
+### Tech stack
+- Python
+- OpenAI API
+- LangChain
+- Vector databases
+
+More coming soon.
