@@ -35,27 +35,41 @@ I build intelligent systems that combine machine learning, computer vision, larg
 - Python
 - Java
 - C++
+- JavaScript
+- TypeScript
 
 ### AI & Machine Learning
 - PyTorch
 - TensorFlow
 - Scikit-learn
 - Hugging Face
+- OpenCV
 - MONAI
 
-### LLM & AI Agents
+### LLM & AI
 - OpenAI API
 - LangChain
 - RAG
+- AI Agents
 - Vector Databases
 
-### Computer Vision
-- OpenCV
-- Medical Imaging
-- Image Processing
-
-### Backend & Tools
+### Backend
 - FastAPI
+- Spring Boot
+- REST APIs
+
+### Frontend
+- Angular
+- React
+- HTML
+- CSS
+
+### Databases
+- MySQL
+- PostgreSQL
+- SQL
+
+### DevOps & Tools
 - Docker
 - Git
 - GitHub
